@@ -1,0 +1,37 @@
+{
+  "name": "@geomelon/moldova",
+  "version": "1.0.0",
+  "description": "Geomelon city/region/country data for Moldova — 1681 cities, multilingual names, sourced from Wikidata.",
+  "keywords": [
+    "geomelon",
+    "cities",
+    "geography",
+    "moldova"
+  ],
+  "license": "CC0-1.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/930m310n/geomelon-data-moldova.git"
+  },
+  "homepage": "https://geomelon.dev",
+  "bugs": {
+    "url": "https://github.com/930m310n/geomelon-data-moldova/issues"
+  },
+  "main": "index.js",
+  "types": "index.d.ts",
+  "dependencies": {
+    "@geomelon/data-query": "^1.0.0"
+  },
+  "files": [
+    "data.json",
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE",
+    "ATTRIBUTION.md",
+    "CHANGELOG.md"
+  ]
+}
